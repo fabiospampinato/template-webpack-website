@@ -1,0 +1,24 @@
+{
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "main": "app.ts",
+  "scripts": {
+    "build": "webpack",
+    "build:watch": "webpack --watch",
+    "serve": "browser-sync start -s . -f bundle.js index.html"
+  },
+  "license": "MIT",
+  "author": "{{author}}",
+  "dependencies": {},
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.8",
+    "browser-sync": "^2.18.8",
+    "css-loader": "^0.26.2",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.2",
+    "style-loader": "^0.13.2",
+    "typescript": "^2.2.1",
+    "webpack": "^2.2.1"
+  }
+}
