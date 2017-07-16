@@ -15,7 +15,7 @@ $ khaos install fabiospampinato/khaos-webpack-website webpack-website
 Create a new webpack website with:
 
 ```
-$ khaos webpack-website my-website
+$ khaos create webpack-website my-website
 ```
 
 ## License
