@@ -1,13 +1,13 @@
-# khaos-webpack-website
+# template-webpack-website
 
-A Khaos template for starting a new webpack website quickly.
+A template for starting a new webpack website quickly.
 
 ## Install
 
-Save the template locally with:
+Install the template locally with:
 
 ```
-$ khaos install fabiospampinato/khaos-webpack-website webpack-website
+$ template install fabiospampinato/template-webpack-website webpack-website
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ khaos install fabiospampinato/khaos-webpack-website webpack-website
 Create a new webpack website with:
 
 ```
-$ khaos create webpack-website my-website
+$ template create webpack-website my-website
 ```
 
 ## License
