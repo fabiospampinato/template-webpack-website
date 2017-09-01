@@ -3,6 +3,6 @@
 
 import './style.scss';
 
-/* {{_ "toUpper" name}} */
+/* {{_ "upperCase" name}} */
 
 alert ( '{{description}}' );
