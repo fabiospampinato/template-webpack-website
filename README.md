@@ -7,7 +7,7 @@ A template for starting a new webpack website quickly.
 Install the template locally with:
 
 ```
-$ template install fabiospampinato/template-webpack-website webpack-website
+template install fabiospampinato/template-webpack-website webpack-website
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ template install fabiospampinato/template-webpack-website webpack-website
 Create a new webpack website with:
 
 ```
-$ template create webpack-website my-website
+template create webpack-website my-website
 ```
 
 ## License
